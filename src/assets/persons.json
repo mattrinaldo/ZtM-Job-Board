@@ -11413,7 +11413,7 @@
     }
   },
   {
-  "id": 806,
+  "id": 808,
   "name": "Rigin Oommen",
   "img": "https://avatars.githubusercontent.com/riginoommen",
   "links": {
@@ -11431,7 +11431,7 @@
   ]
 }
   ,{
-    "id": 806,
+    "id": 809,
     "name": "Jonathan Branski",
     "img": "https://avatars1.githubusercontent.com/u/32647040",
     "links": {
@@ -11446,3 +11446,20 @@
       "country": "United States"
     }
   }
+  },
+  {
+  "id": 810,
+  "name": "Matthew Rinaldo",
+  "img": "https://avatars.githubusercontent.com/mattrinaldo",
+  "links": {
+    "website": "",
+    "linkedin": "www.linkedin.com/in/matthewrinaldo1",
+    "github": "https://github.com/mattrinaldo"
+  },
+  "jobTitle": "Web Dev, Blockchain, Marketing and Community Development",
+  "location": {
+      "city": "",
+      "state": "Australia",
+      "country": "Earth"
+    }
+  },
